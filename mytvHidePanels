@@ -1,0 +1,6 @@
+document.getElementById("big-body-fg").style.display = "none";
+document.getElementById("ghd-wrapper").style.display = "none";
+document.getElementById("live-playlist").style.display = "none";
+document.getElementById("wrapper-small-body-bg").style.display = "none";
+document.getElementById("mytvplus-footer").style.display = "none";
+document.getElementById("gft-wrapper").style.display = "none";
